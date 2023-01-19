@@ -27,6 +27,4 @@ Claramente incluyendo HTML y CSS
 Contactame!!
 No te vas a arrepentir.
 
-Linkedin
-
 Correo: leocar222@gmail.com
