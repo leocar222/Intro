@@ -15,13 +15,14 @@ Disfruto mucho de estar horas programando y la satisfacción de que se pueda ref
 ## ¿Qué tecnologías uso?
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo son:
 
-**Javascript**
-**React.js**
-**Node.js**
-**Express.js**
-**PostgreSQL**
-**Sequelize**
-**GIT**
+- **Javascript**
+- **React.js**
+- **Node.js**
+- **Express.js**
+- **PostgreSQL**
+- **Sequelize**
+- **GIT**
+
 Incluyendo HTML y CSS
 
 **Contactame!!**
